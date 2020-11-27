@@ -11,9 +11,9 @@ In the proposed algorithm an efficient method for recognition of Indian vehicle 
 
 This project will work efficiently in recognizing owner's vehicle in small Institutions/Housing societies/Apartments. We can further modify the code to use it in other areas where ANPR is necessary. 
 
-![Output](Result.jpeg)
+![Output](Output.jpeg)
 
-Refer [Project_Report.pdf](Project_Report.pdf) and [Recording.mp4](https://drive.google.com/file/d/1ftCxlbQqHYLonTMoqEFcAyVe4OKleW2j/view?usp=sharing)  for more details regarding the implementation. 
+Refer [Project_Report.pdf](Project_Report.pdf) and [VideoDemo.mp4](https://drive.google.com/file/d/1ftCxlbQqHYLonTMoqEFcAyVe4OKleW2j/view?usp=sharing)  for more details regarding the implementation. 
 
 Give the path of folders "Dataset" and "Search_image" while executing [Program.py](Program.py)
 ## References:
